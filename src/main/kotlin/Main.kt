@@ -1,7 +1,11 @@
 fun main(args: Array<String>) {
+    println("kotlin is a programing laguage".countSimbols())
 
+  // имя класса: тип-получатель
+  // значение: объкт-получатель
+}
 
-
+fun String.countSimbols(): Int = length - replace("a" , "").length
 
 
 
@@ -20,7 +24,7 @@ fun main(args: Array<String>) {
     println(doubling(5))
 */
 
-}
+//}
 
 
    /*val exam = { println("Excellent!") } // лямбда
