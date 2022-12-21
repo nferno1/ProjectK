@@ -1,12 +1,31 @@
 fun main(args: Array<String>) {
-    println("kotlin is a programing laguage".countSimbols())
+
+
+
+}
+
+
+/* \\infix
+    println(1 sum 2)
+    println(1.sum(2))
+
+    println(1 big 3)
+    println(3.big(2))
+
+}
+
+infix fun Int.big(value:Int): Boolean = this > value
+
+infix fun Int.sum(i: Int) = this + i*/
+
+   /* println("kotlin is a programing laguage".countSimbols())
 
   // имя класса: тип-получатель
   // значение: объкт-получатель
 }
 
 fun String.countSimbols(): Int = length - replace("a" , "").length
-
+*/
 
 
 /*//it
