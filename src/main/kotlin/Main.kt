@@ -1,8 +1,43 @@
-fun main(args: Array<String>) {
+fun main() {
 
+    val printAll = {text: String -> println(text)}
+    printAll("Kotlin")
+    printAll("Java")
+    printAll("Kotlin" + "Java")
+    printAll("15")
+    printAll("15 + 18")
 
 
 }
+/*fun printPrefix(vararg words: String, prefix: String){
+    for (m in words)
+        println(prefix + m)
+
+}
+
+fun main(args: Array<String>) {
+
+    printPrefix("one", "two", "there", "four", "five", prefix = "number: ")
+
+
+
+
+}*/ // задача 4
+    /*println(isLetter('g'))
+    println(isLetter('5'))
+    println(checkNumber('5'))
+}
+
+fun isLetter (c: Char) = c in 'a'..'z' || c in 'A'..'Z'
+fun checkNumber (c: Char) = c !in '0'..'9'*/ // задача 2
+
+/*for (sum in 'a'..'f') {
+
+    println(sum)
+
+}*/// задача 1
+
+
 
 
 /* \\infix
@@ -21,7 +56,7 @@ infix fun Int.sum(i: Int) = this + i*/
    /* println("kotlin is a programing laguage".countSimbols())
 
   // имя класса: тип-получатель
-  // значение: объкт-получатель
+  // значение: объект-получатель
 }
 
 fun String.countSimbols(): Int = length - replace("a" , "").length
