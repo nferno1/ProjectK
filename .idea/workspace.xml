@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7b7c17e-b87d-4dc8-b639-72ca5be9d54b" name="Changes" comment="infix">
+    <list default="true" id="a7b7c17e-b87d-4dc8-b639-72ca5be9d54b" name="Changes" comment="Kotlin № 6">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Student.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -17,6 +18,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671609217109</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kotlin № 6">
+      <created>1671615498195</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671615498195</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +103,7 @@
     <MESSAGE value="kotlin lambda" />
     <MESSAGE value="Function extension" />
     <MESSAGE value="infix" />
-    <option name="LAST_COMMIT_MESSAGE" value="infix" />
+    <MESSAGE value="Kotlin № 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin № 6" />
   </component>
 </project>
