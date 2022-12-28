@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7b7c17e-b87d-4dc8-b639-72ca5be9d54b" name="Changes" comment="Kotlin № 6">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Student.kt" afterDir="false" />
+    <list default="true" id="a7b7c17e-b87d-4dc8-b639-72ca5be9d54b" name="Changes" comment="Kotlin consstructor">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Virus.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -41,13 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/Kotlin/ProjectK&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Project/Kotlin/ProjectK",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671615498195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kotlin consstructor">
+      <created>1672219790427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672219790427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +112,7 @@
     <MESSAGE value="Function extension" />
     <MESSAGE value="infix" />
     <MESSAGE value="Kotlin № 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin № 6" />
+    <MESSAGE value="Kotlin consstructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin consstructor" />
   </component>
 </project>

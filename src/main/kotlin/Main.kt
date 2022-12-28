@@ -1,13 +1,22 @@
 fun main() {
 
-   val ivan: Student = Student("Ivan", 80.5)
+    val ebola = Virus ("Ebola", 2013, 28640)
+    ebola.printVirus()
+    ebola.isVaccineFound()
+    val covid19 = Virus ("Covid 2019", 2019, 1_003_159)
+    covid19.printVirus()
+    covid19.isVaccineFound()
+
+}
+
+  /* val ivan: Student = Student("Ivan", 80.5)
     println(ivan.name + "mark: " + ivan.mark)
 
     val petr: Student = Student("Petr", 80.3, "Petrov")
     println(petr.name + " " + petr.surname + " mark: " + petr.mark )
+*/
 
 
-}
 /*fun printPrefix(vararg words: String, prefix: String){
     for (m in words)
         println(prefix + m)
